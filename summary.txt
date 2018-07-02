@@ -1,0 +1,34 @@
+Line count of each file in the results directory.
+
+18 results/aquidneck.txt
+130 results/ashaway.txt
+6 results/asquah.txt
+6 results/canonchet.txt
+65 results/chariho.txt
+56 results/chowdah.txt
+159 results/gansett.txt
+39 results/hopkinton.txt
+40 results/matunuck.txt
+6 results/misquamicut.txt
+27 results/narragansett.txt
+7 results/ninigret.txt
+65 results/pawsox.txt
+63 results/pawtucket.txt
+200 results/quahog.txt
+2 results/quidnessett.txt
+57 results/quonnie.txt
+2 results/quonochontaug.txt
+30 results/quonset.txt
+111 results/rhodeisland.txt
+6210 results/rhode.txt
+560 results/rhody.txt
+43 results/saugy.txt
+29 results/shannock.txt
+3 results/usquepaug.txt
+594 results/wakefield.txt
+39 results/weekapaug.txt
+179 results/westerly.txt
+110 results/wickford.txt
+36 results/woonsocket.txt
+491 results/worcester.txt
+35 results/yawgoo.txt
